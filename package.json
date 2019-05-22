@@ -32,7 +32,7 @@
     "ecstatic": "2.1.x",
     "jasmine-core": "2.5.x",
     "jsb3": "1.0.x",
-    "karma": "1.7.x",
+    "karma": "^0.13.22",
     "karma-chrome-launcher": "2.1.x",
     "karma-coverage": "1.1.x",
     "karma-edge-launcher": "^0.4.1",
