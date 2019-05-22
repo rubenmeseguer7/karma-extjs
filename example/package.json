@@ -12,6 +12,6 @@
     "gulp-uglify": "0.2.x",
     "gulp-util": "2.2.x",
     "yargs": "1.2.x",
-    "karma-extjs": "0.1.8"
+    "karma-extjs": "git://github.com/rubenmeseguer7/karma-extjs.git"
   }
 }
